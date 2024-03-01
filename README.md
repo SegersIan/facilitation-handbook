@@ -2,6 +2,8 @@ My handbook on facilitation which is a useful skill.
 
 # Facilitating, Teaching, and Lecturing
 
+![image](./assets/comparison_chart_training_mentoring_groupcoaching_facilitation.PNG)
+
 > TIP: Pick what is most suitable to your goal 
 
 | Type | Who controls what is being learned | Type of Participation | Comments |
@@ -61,6 +63,59 @@ My handbook on facilitation which is a useful skill.
 
 * [YouTube Video: Deal with dominant people in conversation](https://youtu.be/tWKoQv45wzo?si=TaZqqunDKvMeaL1B)
 
+## Do's and Donts
+
+* Do: 
+    * Carefully assess needs
+    * Stay neutral
+    * Have a lot of tools
+    * Create open trusting atmosphere and tell why everyone is there.
+    * Simple & direct language 
+    * Conclude meetings on positive notes.
+    * Clear steps
+    * Clarity in general
+* Donts:
+    * Be center of attention
+    * Don't check in with participants
+    * Don't listen
+    * Too passive
+    * Lose track of ideas
+    * Put people down
+    * Don't take breaks
+    * Don't have alternative approaches to adjust
+    * Let discussions go one and on
+
+## SixSteps® Facilitation and moderation method
+by Josef W. Seifert
+
+[YouTube Video: Introduction](https://www.youtube.com/watch?v=bC2kG6hkhQc)
+
+## Facilitation gives a meeting
+
+* Structure
+* Safety
+* Orientation
+
+## Steps
+
+1. Introduction: 
+    * Let the participants settle down, compare participants ideas concerning the purpose of the meeting.
+    * Explains the course of the meeting, the goals, and how much time everywhere.
+2. Gathering
+    * Everyone can propose topics to be discussed.
+    * Makes every involved and be part of the results.
+    * No topics forgotten
+3. Selecting
+    * Everyone can vote on the selected topics from the gathering step.
+    * Remaining time can be optimal used.
+4. Handling
+    * Handling the topic(s)
+5. Planning
+    * Action items which defines a responsible, target date and monitor the results.
+    * Distribute evenly if possible.
+6. Conclusion
+    * Reflect on the meeting, what went well ? What could be improved.
+
 ## General
 
 ### Goal
@@ -97,6 +152,7 @@ My handbook on facilitation which is a useful skill.
  
 # Resources
 
+* [YouTube Channel: Chad Littlefield](https://www.youtube.com/@chad.littlefield)
 * [YouTube Channel: Facilitating XYZ](https://www.youtube.com/@facilitatingxyz5984)
 * [YouTube Channel: AJ&Smart](https://www.youtube.com/@AJSmart)
 * [YouTube Channel: Adriana Girdler (Project Management))](https://www.youtube.com/@AdrianaGirdler)
@@ -107,3 +163,4 @@ My handbook on facilitation which is a useful skill.
 * [YouTube Video: How To Think Faster](https://youtu.be/Z2-oteiLuyU?si=8TrAl0O6ErRhnKW2)
 * [YouTube Video: Deal with dominant people in conversation](https://youtu.be/tWKoQv45wzo?si=TaZqqunDKvMeaL1B)
 * [Training: The Effective Facilitator](https://www.leadstrat.com/courses/effective-facilitator/)
+* [YouTube Video: Process Facilitation Explained](https://www.youtube.com/watch?v=3YgIS0N1dII)
