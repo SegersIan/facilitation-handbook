@@ -18,9 +18,11 @@ My handbook on facilitation which is a useful skill.
     * Examples: Conflict resolution, Communication, and problem solving.
 * Dialogue Facilitation: Building bridges rather than walls.
     * Examples: Put strangers in a circle and talk about given topic(s) (e.g. Politics, Race, Opinions)
-* General Facilitation: More like in business, run a meeting. A general batch, but skills from Experiential and Dialogue facilitation can help tremendously.
+* General Facilitation: More like in business, run a meeting. A general batch, but skills from Experiential and Dialogue facilitation can help tremendously. Most of this handbook is about this.
 
 [Source](https://www.youtube.com/watch?v=2cVGI0wo23M)
+
+
 
 # Core Skills
 
@@ -53,10 +55,46 @@ My handbook on facilitation which is a useful skill.
     * Even if the 5 seconds pass, let them take the time.
 * Change the mechanics: Domination could be because of the people, but because of the structure of the meeting.
     * Split out into groups to have discussions (breakout sessions) and then report back what you heard other people in your group say (not what you said).
-* Steering into the curve: 
+* Steering into the curve: Address the elephant in the room, address this privately first. This is more closer to "last resort" if others don't work.
+    * Pull person aside: What I'd love you to do, I love all your contributions and I am recognizing your contributions are heavier than others and I'd like to make space for voices. Can you aim to bear through this awkward silence to give space to other people to share. They won't be surprised about it or new about it that they're dominant about it.
+    * You can do it publicly but risky: "I can notice we are playing white guy ping-pong, can we step back for a moment and make space for other voices (example from a meeting where it happened the most heavy voices were white, including the facilitator)"
 
 * [YouTube Video: Deal with dominant people in conversation](https://youtu.be/tWKoQv45wzo?si=TaZqqunDKvMeaL1B)
 
+## General
+
+### Goal
+* Arrive at a results that are **Created, understood, and accepted** by all participants.
+* Better decisions, often faster & More Buy-In
+
+### For Who?
+* For everyone who works with groups
+    * ED (Effective Decision) = RD (Right Decision) x CD (Commitment to the Decision)
+    * Usually we make a (right) decisions but then must built up commitment. With a good facilitation you get commitment as the right solution is built. Therefore, more effective decisions.
+
+### Common Challenges
+
+* Dysfunctional behavior (Whispering, sidetracking, arguments, dominant behavior)
+    * A good facilitator can navigate this by doing:  Conscious Prevention, Early Detection, Clean Resolution 
+* Get Full Consensus: Understand if the disagreement is Level 1, Level 2, or Level 3 and then use a tool for addressing given level. (not sure if [this is what they refer to](https://themindcollection.com/revisiting-grahams-hierarchy-of-disagreement/))
+* Different Types Challenging Participants:
+    * The alpha Leader (get in front of the facilitator) - Tends to naturally take over.
+        * Driven by: power
+        * Handled by: They need to feel important
+            * Give an important task, so the task gives them an outlet. Giving them an opportunity to present themselves.
+    * The know-it-all - They want to present their own knowledge and want to learn new things, but are looking out for mistakes on the way.
+        * Driven By: Knowledge
+        * Handled By: Make them into an expert, you say they are the expert in the room and at a particular point of time they will be asked to present their knowledge. Give them a framework when they can't show off, without interrupting your flow.
+    * The introverts - Happy to follow, and not make trouble, but observe more than to participate. They avoid to speak up. If you need their input, that's not good.
+        * Driven By: Instructions
+        * Handled By: Be specific, give examples and clear outlines of that they need to do.
+    * The indecisive one - Well hidden, good team member, participate, until a decision must be made. Might as for more input and question if we covered everything?
+        * Driven By: Safety 
+        * Handled By: Make them feel safe, by outlining what the outcomes the decision at hand will have. Give them the context that the decision is made, and what for. Give them all the information they should know to feel safe to make a decision. Give Them Reassurance!
+    * The Negativist - Body language is usually a tell, are grumpy, drain energy and spontaneity.
+        * Driven By: Resistance
+        * Handled By: Allow them to get rid of their negative opinions, ask for their opinions proactively. Then bounce back to them "What would you do or suggest"? Try to make them an expert.
+ 
 # Resources
 
 * [YouTube Channel: Facilitating XYZ](https://www.youtube.com/@facilitatingxyz5984)
@@ -68,3 +106,4 @@ My handbook on facilitation which is a useful skill.
 * [Book: Ask Powerful questions - Touches on Dialogue Facilitation](https://www.amazon.com/Ask-Powerful-Questions-Create-Conversations/dp/1545322996)
 * [YouTube Video: How To Think Faster](https://youtu.be/Z2-oteiLuyU?si=8TrAl0O6ErRhnKW2)
 * [YouTube Video: Deal with dominant people in conversation](https://youtu.be/tWKoQv45wzo?si=TaZqqunDKvMeaL1B)
+* [Training: The Effective Facilitator](https://www.leadstrat.com/courses/effective-facilitator/)
