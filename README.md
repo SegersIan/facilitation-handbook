@@ -176,7 +176,10 @@ by Josef W. Seifert
 * A placeholder for issues or questions that might need to be dealt with, but at a later point in the session/meeting/workshop.
 * You can either address all of the items at a specific time, or else in 1:1's (e.g. during lunch) but make CLEAR when you will address these.
 * Even if you know these questions will be answered over the workshop, write it down, let them feel heard and appreciated.
-* Goal: Avoid the workshop derailing and explode in discussion.
+* Goal: 
+    * Avoid the workshop derailing and explode in discussion. 
+    * Let people feel heard.
+    * It allows them to let go what's in their head, so they can relax more.
 * Examples
     * "This is not something we will deal/address now, but I have a section at the end for rapid fire questions and such, what I will do is add this to the parking lot so we can pick it up at the end."
     * "I Understand where you are coming from, I have a lot of things to say about that, if you don't mind trusting the process, I will get back to that (putting that in the parking lot)".
