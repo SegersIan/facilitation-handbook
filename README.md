@@ -44,6 +44,18 @@ My handbook on facilitation which is a useful skill.
 
 ## Deal with people who dominate conversation
 
+* Flip The Role: Pretext your question with a request for the busy talkers to hold of. People who talk a lot know they talk a lot.
+    * Example: "Hey, if you're typically one of the first people to speak, please hold back and wait to be one of the last (or 3th) to speak, is is possible might not get a chance to speak this time,  but I'd love to hear some of the  voices that not always get heard."
+    * This is less directed towards individuals (e.g. hey Mark, I didn't hear you yet.)
+* Creating Space: Create more space/silence for those who are a bit more hesitant to speak, to get their chance.
+    * To avoid awkward silence to create productive silence. Build on top of the "Flip The Role" , by also pretexting, that you want a specific time window before anyone answers, so every can think for a moment.
+    * Example: "Hey, if you're typically one of the first people to speak, please hold back and wait to be one of the last (or 3th) to speak, is is possible might not get a chance to speak this time,  but I'd love to hear some of the  voices that not always get heard. I am going to ask this question, and then pause in total silence for 5 seconds to wait for everyone to think of their own response before we share."
+    * Even if the 5 seconds pass, let them take the time.
+* Change the mechanics: Domination could be because of the people, but because of the structure of the meeting.
+    * Split out into groups to have discussions (breakout sessions) and then report back what you heard other people in your group say (not what you said).
+* Steering into the curve: 
+
+* [YouTube Video: Deal with dominant people in conversation](https://youtu.be/tWKoQv45wzo?si=TaZqqunDKvMeaL1B)
 
 # Resources
 
@@ -55,4 +67,4 @@ My handbook on facilitation which is a useful skill.
 * [Book: Pocket Guide to Facilitating Human Connection - Touches on Experiential Facilitation](https://www.amazon.com/Facilitating-Connections-Littlefield-Self-Improvement-Teambuilding/dp/0996423974)
 * [Book: Ask Powerful questions - Touches on Dialogue Facilitation](https://www.amazon.com/Ask-Powerful-Questions-Create-Conversations/dp/1545322996)
 * [YouTube Video: How To Think Faster](https://youtu.be/Z2-oteiLuyU?si=8TrAl0O6ErRhnKW2)
-* 
+* [YouTube Video: Deal with dominant people in conversation](https://youtu.be/tWKoQv45wzo?si=TaZqqunDKvMeaL1B)
