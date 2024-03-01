@@ -40,7 +40,12 @@ My handbook on facilitation which is a useful skill.
 
 [Source](https://www.youtube.com/watch?v=2cVGI0wo23M)
 
-## Resources
+# Tips
+
+## Deal with people who dominate conversation
+
+
+# Resources
 
 * [YouTube Channel: Facilitating XYZ](https://www.youtube.com/@facilitatingxyz5984)
 * [YouTube Channel: AJ&Smart](https://www.youtube.com/@AJSmart)
@@ -49,3 +54,5 @@ My handbook on facilitation which is a useful skill.
 * [YouTube Channel: North Star Facilitators](https://www.youtube.com/@NorthStarFacilitators)
 * [Book: Pocket Guide to Facilitating Human Connection - Touches on Experiential Facilitation](https://www.amazon.com/Facilitating-Connections-Littlefield-Self-Improvement-Teambuilding/dp/0996423974)
 * [Book: Ask Powerful questions - Touches on Dialogue Facilitation](https://www.amazon.com/Ask-Powerful-Questions-Create-Conversations/dp/1545322996)
+* [YouTube Video: How To Think Faster](https://youtu.be/Z2-oteiLuyU?si=8TrAl0O6ErRhnKW2)
+* 
