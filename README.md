@@ -14,6 +14,17 @@ My handbook on facilitation which is a useful skill.
 
 [Source](https://www.youtube.com/watch?v=tJwfrxAZjKE)
 
+## Why the facilitator is different 
+
+* Evokes creativity and confidence in the group
+* Honest & Transparent : I see "this" is happening, in a meta way you observe, less about the content, as facilitator you can be 100% content agnostic.
+* Pays Deep Attention at what is happening in the group at any given moment. (You are sheparding a group)
+* Artistic and Scientific 
+* Ground and calm
+* Is a planner, prepare an event, well prepared.
+* Adaptive designer: Design a plan, but can be adaptive when necessary based on the needs.
+* Neutral and unbiased: You should not care about the result, only that there is a quality result.
+
 # Facilitation Types
 
 * Experiential Facilitation: Facilitate experiences for people to learn by doing. Also known as adventure or outdoor education.
@@ -44,7 +55,15 @@ My handbook on facilitation which is a useful skill.
 
 [Source](https://www.youtube.com/watch?v=2cVGI0wo23M)
 
+
 # Tips
+
+## Create space/time for people before asking
+
+* "Let's take 15 seconds of pause to help everyone come up with a question and then let them ask". Make explicit moments give moments to digest and build courage.
+* Don't ask if people have questions, gently nudge or "command" them to prepare a question. "Take 10 seconds and try to come up with a question".
+
+
 
 ## Deal with people who dominate conversation
 
@@ -149,7 +168,22 @@ by Josef W. Seifert
     * The Negativist - Body language is usually a tell, are grumpy, drain energy and spontaneity.
         * Driven By: Resistance
         * Handled By: Allow them to get rid of their negative opinions, ask for their opinions proactively. Then bounce back to them "What would you do or suggest"? Try to make them an expert.
- 
+
+# Tools & Techniques
+
+## Parking Lot Method
+* Technique for difficult participants
+* A placeholder for issues or questions that might need to be dealt with, but at a later point in the session/meeting/workshop.
+* You can either address all of the items at a specific time, or else in 1:1's (e.g. during lunch) but make CLEAR when you will address these.
+* Even if you know these questions will be answered over the workshop, write it down, let them feel heard and appreciated.
+* Goal: Avoid the workshop derailing and explode in discussion.
+* Examples
+    * "This is not something we will deal/address now, but I have a section at the end for rapid fire questions and such, what I will do is add this to the parking lot so we can pick it up at the end."
+    * "I Understand where you are coming from, I have a lot of things to say about that, if you don't mind trusting the process, I will get back to that (putting that in the parking lot)".
+
+[YouTube Video: Parking Lot Method](https://youtu.be/DZiYUSau5LM?si=jn-6IsYsZ4qoLARa)
+
+
 # Resources
 
 * [YouTube Channel: Chad Littlefield](https://www.youtube.com/@chad.littlefield)
